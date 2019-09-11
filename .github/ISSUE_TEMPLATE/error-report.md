@@ -1,6 +1,6 @@
 ---
 name: Error Report
-about: Create a report to help us improve
+about: Report an error or runtime from DreamMaker or the console
 title: ''
 labels: bug
 assignees: ''
